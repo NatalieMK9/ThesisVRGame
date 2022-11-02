@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa5b3143214ec5e4fa1788e4ea6ea814
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DebitCard: {fileID: 6375143562990715050, guid: b52fa0af9d5ac3241bc2e70966c216ab,
+      type: 3}
+  - card: {fileID: 6375143562990715050, guid: b52fa0af9d5ac3241bc2e70966c216ab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
