@@ -1,0 +1,1 @@
+[11/15/2017, 8:53:07 PM] layer "shape/misc/shapeStarOutline.png": Duplicate path: shape/misc/shapeStarOutline.png

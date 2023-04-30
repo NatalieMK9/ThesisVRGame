@@ -1,0 +1,38 @@
+Everyday MoCap 03
+
+This package features a collection of 15 fbx animations for a bipedal humanoid character performing various tech motions, generally using a phone.  
+
+Phone Crying 01: Character is holding a cellphone close to head and starts to cry after hearing sad news. Bends over and brings free hand up near to face.
+
+Phone Crying 02: Character holds cellphone near head and hears sad news. Then bends over and begins to cry. Brings free hand up to face multiple times
+and shakes head several times.
+
+Phone Angry 01: Character recieves a phone call and hears news that upsets them. Shakes free hand in disbelief, yells at phone, almost throws phone away. 
+Angrily hangs up on call.
+
+Phone Angry 02: Character recieves a phone call and hears news that upsets them. Clenches fist in anger and yells directly into phone. Listens again 
+then continues to make hand gestures and finally agressively hangs up.
+
+Phone Pacing 01: Character walks back and forth while on the phone. Supports phone hand with offhand. Slight talking hand gestures. Offhand rests on hip near end.
+
+Phone Pacing 02: Character walks back and forth while on the phone. Moves head side to side. Clentches fist into a ball. 
+
+Phone Talking 01: Character moves slightly left and right while talking on phone. Subtle hand gestures.
+
+Phone Talking 02: Character shuffles slightly left and right while talking on phone. Subtle hand gestures.
+
+Sitting Down 05: Character turns around and gently sits down on chair. Gets up and continues to face forward.
+
+Sitting Down 06: Character turns around and plops down into chair. Gets up and continues to face forwards.
+
+Sitting Texting 01: Character sits in chair and pulls out phone to text with, using one hand. Puts phone away after.
+
+Sitting Texting 02: Character sits in chair and pulls out phone to text with, using two hand. Puts phone away after.
+
+Sitting Typing: Character sits at a desk and types at a keyboard.
+
+Texting 01: Character pulls out phone and begins texting, using one hand. Puts phone away after.
+
+Texting 02: Character pulls out phone and begins texting, using two hand. Puts phone away after.
+
+If you have any questions feel free to contact us at support@morromotion.com

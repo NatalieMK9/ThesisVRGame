@@ -12,18 +12,16 @@ public class LockBehavior : MonoBehaviour
 {
     public GameObject DebitCard;
     public GameObject card;
-    public bool summon = false;
 
     void OnTriggerEnter(Collider other)
     {
         //summon makes sure that only one keycard appears
-        if (other.name == "redkey" && summon == false)
+        if (other.name == "redkey")
         {
             Debug.Log("Key has been put in lock");
             CreateDebitCard();
             card.transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
             card.transform.position = new Vector3(7.94f, 1.413f, 6.843f);
-            summon = true;
         }
     }
     public void CreateDebitCard()

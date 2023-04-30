@@ -1,0 +1,42 @@
+Everyday MoCap 01
+
+This package features a collection of 17 fbx animations for a bipedal humanoid character performing various emotions in a sitting positions.
+
+ Sitting Crying 01: Character is sitting and crying into their hands, one then both, then one again. Wipes tears at end. 
+
+ Sitting Crying 02: Character is sitting and crying into their hands, uses both hands. Wipes tears at end. 
+
+ Sitting Down 01: Character sits down in a chair.
+
+ Sitting Down 02: Character plops down in a chair heavily.
+
+ Sitting Down 03: Character turns around and sits down in a chair.
+
+ Sitting Down 04: Character walks by a chair, pulls it our and sits down, then pulls the chair in from the front.
+
+ Sitting Excited 01: Character jumps forward while sitting, shaking fists in an exciting manner.
+
+ Sitting Excited 02: Character raises hands up above head quickly while sitting, then stands and starts clapping for extended period. Then sits back down.
+
+ Sitting Laughing 01: Character holds belly and points with other arm while laughing. Slaps knee during laugh.
+
+ Sitting Laughing 02: Character raises hands to face then points and laughs while slapping knee.
+
+ Sitting Talking 01: Character turns to the left while sitting and starts a conversation with the person next to them. Arms and head moves around to mimic talking. 
+
+ Sitting Talking 02: Character rests left leg on top of right leg and starts a conversation with person to their right. Arms and head moves around to mimic talking.
+
+ Sitting Talking 03: Character rests hands on thighs and starts a conversation with person infront of them. Arms and head moves around to mimic talking.
+
+ Sitting Tired 01: Character stretches out arms into the air then lets them fall towards the ground. Head falls backwards, then left arm comes up to face for a yawn. 
+
+ Sitting Tired 02: Character puts arms behind head and stetches right arm up towards sky. Arms then come back and rest on thighs. Head falls backwards then is suddenly 
+ jerked forward to wake character up from dosing off.
+
+ Sitting Upset 01: Character leans forward and extends arms out in frustration in front of them. Character accepts their situation and relaxes back into thier chair. 
+
+ Sitting Upset 02: Character leans forward and extends arms out in frustration in front of them. Arms are brought up to characters face several times in disbelief. 
+
+ *Morro chair model provided may need to be translated in order to line up with certain animations. Morro Chair animation is only for use with Sitting Down 04 animation.  
+
+If you have any questions feel free to contact us at support@morromotion.com

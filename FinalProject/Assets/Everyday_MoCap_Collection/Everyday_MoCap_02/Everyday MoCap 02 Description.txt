@@ -1,0 +1,39 @@
+Everyday MoCap 02
+
+This package features a collection of 17 fbx animations for a bipedal humanoid character performing various emotions in a standing position. 
+
+Coughing 01: Character coughs into their right arm. Signals with left arm that they are okay. 
+
+Coughing 02: Character coughs several times into their right elbow.
+
+Crying 01: Character starts crying, bends over and brings both hands up to face. Tries to brush off any help offered. Wipes tears away after. 
+
+Crying 02: Character starts crying slowly. Brings both hands to head and bends over slightly. Wipes away tears after. 
+
+Excited 01: Character shakes hands and claps happily in an excited motion. 
+
+Excited 02: Character shakes hands and claps happily in an excited motion. Several fist clentches in a satisfactory motion. 
+
+Idle Relaxed: Character stands in a relaxed stance. Shifts weight from side to side and looks around. 
+
+Laughing 01: Character starts laughing then points forward, then grabs belly. 
+
+Laughing 02: Character starts laughing and grabs belly with both hands. Points forward after as laughter continues. 
+
+Looking Impatient 01: Character stands around looking impatient. Hands are held on hips, feet tapped, watch checked. 
+
+Looking Impatient 02: Character stands around looking impatient. Character taps feet excessively, checks phone and yawns. 
+
+Talking 01: Character uses various hand gestures while shifting side to side as talking ensues. 
+
+Talking 02: Character uses more hand gestures while shifting side to side as talking ensues. 
+
+Tired 01: Character extends both arms out up and backwards in a stretching motion, then lets them fall to the side.
+
+Tired 02: Character yawns into left hand and tries to shake head awake. 
+
+Upset 01: Character raises arms up and down several times to display anger at current situation. 
+
+Upset 02: Character raises arms up and down several times, along with brining hand to face in disbelief, all in order to display anger at current situation. 
+
+If you have any questions feel free to contact us at support@morromotion.com

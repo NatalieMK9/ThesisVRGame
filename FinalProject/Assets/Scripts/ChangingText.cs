@@ -1,6 +1,5 @@
 ﻿/*CHANGINGTEXT.CS
-    This code changes the display on the big monitor at the front at certain intervals. For the first thirty seconds, it explains the context of the game's story, and from then on out, it
-    displays how much time is left in the ten-minute timer and the number of points you would get if you left the room at that point.
+    This code changes the display on the big monitor at the front at certain intervals.
 */
 
 using System.Collections;
