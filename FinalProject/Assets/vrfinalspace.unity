@@ -3241,6 +3241,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 644a39710a5469b47a615a0ff22d2d53, type: 3}
+--- !u!1 &697649602 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1593340724406357577, guid: 5601188b92d5464468de81244f25fd96,
+    type: 3}
+  m_PrefabInstance: {fileID: 1371478259}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &697649607
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 697649602}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.65902907, y: 0.47984532, z: 0.98353714}
+  m_Center: {x: 0, y: 0.23992164, z: -0.0000037860962}
 --- !u!4 &713468946 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6158358281071588567, guid: 69bf76593cbac4f4bb9b5bd38520ca68,
@@ -6292,6 +6311,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6606285431459745049, guid: 1c70ba7a257c22e44af09b315150800c,
+        type: 3}
+      propertyPath: m_Convex
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c70ba7a257c22e44af09b315150800c, type: 3}
 --- !u!1001 &1371478259
@@ -6360,6 +6384,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: jarst_stand_for_vegetables (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1593340724406357577, guid: 5601188b92d5464468de81244f25fd96,
+        type: 3}
+      propertyPath: m_Name
+      value: onionshelf
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5601188b92d5464468de81244f25fd96, type: 3}
@@ -6865,6 +6894,12 @@ MonoBehaviour:
   m_AnimateModel: 0
   m_ModelSelectTransition: 
   m_ModelDeSelectTransition: 
+--- !u!1 &1434107377 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5100756418271053259, guid: 5601188b92d5464468de81244f25fd96,
+    type: 3}
+  m_PrefabInstance: {fileID: 1371478259}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1450159996
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7624,6 +7659,29 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1653652429}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1677969212 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5157299774980244939, guid: 1c70ba7a257c22e44af09b315150800c,
+    type: 3}
+  m_PrefabInstance: {fileID: 1364836076}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1677969217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1677969212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa5b3143214ec5e4fa1788e4ea6ea814, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jarst_onion: {fileID: 1434107377}
+  onion: {fileID: 1434107377}
+  score: 0
+  MinigameText: {fileID: 0}
+  countdown: 6
 --- !u!1 &1683219948
 GameObject:
   m_ObjectHideFlags: 0
@@ -9314,7 +9372,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: jarst_floor (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 69bf76593cbac4f4bb9b5bd38520ca68, type: 3}
 --- !u!1001 &1915720143
 PrefabInstance:
@@ -9752,7 +9811,7 @@ GameObject:
   - component: {fileID: 2003992614}
   - component: {fileID: 2003992613}
   m_Layer: 0
-  m_Name: New Text
+  m_Name: MinigameText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

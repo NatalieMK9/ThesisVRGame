@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1083314058571005804}
   - component: {fileID: 4082354667294601417}
   - component: {fileID: 2252812159577768963}
-  - component: {fileID: 104239630281073939}
+  - component: {fileID: 677089711696753097}
   m_Layer: 0
   m_Name: jarst_drinks_holder1
   m_TagString: Untagged
@@ -81,20 +81,22 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &104239630281073939
-MeshCollider:
+--- !u!54 &677089711696753097
+Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 307200014378067414}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 6194555970444504444, guid: c31971c89a643bd4abcc7e63ac267073, type: 3}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 2
 --- !u!1 &3388474035553895715
 GameObject:
   m_ObjectHideFlags: 0

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3029772302270351843}
   - component: {fileID: 2135887433956017734}
   - component: {fileID: 4197571490578412172}
-  - component: {fileID: 2307219868455094334}
+  - component: {fileID: -618516043774943959}
   m_Layer: 0
   m_Name: jarst_cashbox1
   m_TagString: Untagged
@@ -82,20 +82,22 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &2307219868455094334
-MeshCollider:
+--- !u!54 &-618516043774943959
+Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2395978188675355481}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 7734315819607096323, guid: 0d65c3da1c6f56e4aa7b7565aa665741, type: 3}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 2
 --- !u!1 &3367228232560922261
 GameObject:
   m_ObjectHideFlags: 0
